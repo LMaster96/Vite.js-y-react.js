@@ -1,4 +1,3 @@
-import { XMarkIcon } from '@heroicons/react/24/solid'
 
 const OrdersCard = props => {
   const { totalPrice, totalProducts } = props
